@@ -7,6 +7,8 @@ comments: true
 author: tom
 ---
 
+###### 说明：运行DeepKe官方 命名实体识别 任务
+
 <!-- more -->
 
 ## 设置Github镜像
